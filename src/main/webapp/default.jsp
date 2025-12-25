@@ -28,7 +28,7 @@
   <body>
     <tagfiles:header />
     <div id="hate" class="container snakes snake-hater">
-      <h1 class="cover-heading">CICD Pipeline </h1>
+      <h1 class="cover-heading">CICD Pipeline -- kanishka singh</h1>
       <p class="lead">A safety resource for snake haters.</p>
       <!--Intro -->
       <h2>Do you or a loved one hate snakes?</h2>
@@ -81,4 +81,5 @@
     <script src="js/init.js"></script>
   </body>
 </html>
+
 
